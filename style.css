@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(219, 219, 219);
+}
+
+.header_div img{
+    width: 150px;
+}
+
+.header_div{
+    background-color: white;
+    margin-bottom: 20px;
+}
+
+.text_images_and_result{
+    position: left;
+}
+
+.text_images_and_result1 img{
+    width: 400px;
+    height: 300px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+b{
+    color: white;
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
+
+h4{
+    background-color: rgba(0, 0, 0, 0.342);
+    width: 50%;
+    height: 50px;
+    top: 0;
+    border-radius: 20px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.233);
+    line-height: 3;
+    text-align: center;
+}
